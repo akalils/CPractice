@@ -1,0 +1,3 @@
+/Users/lisheng/CLionProjects/调试技巧/cmake-build-release/CMakeFiles/main.c.dir
+/Users/lisheng/CLionProjects/调试技巧/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/lisheng/CLionProjects/调试技巧/cmake-build-release/CMakeFiles/rebuild_cache.dir
