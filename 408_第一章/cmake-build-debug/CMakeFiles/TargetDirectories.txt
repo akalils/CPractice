@@ -1,0 +1,3 @@
+/Users/lisheng/CLionProjects/408_第一章/cmake-build-debug/CMakeFiles/408.dir
+/Users/lisheng/CLionProjects/408_第一章/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lisheng/CLionProjects/408_第一章/cmake-build-debug/CMakeFiles/rebuild_cache.dir
